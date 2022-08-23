@@ -1,4 +1,9 @@
-[![tests](https://github.com/naveen-bharathi/recursive-key-filter/actions/workflows/tests.yml/badge.svg)](https://github.com/naveen-bharathi/recursive-key-filter/actions/workflows/tests.yml) ![License](https://badgen.net/npm/license/recursive-key-filter?color=blue) ![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/recursive-key-filter) ![weekly downloads](https://badgen.net/npm/dw/recursive-key-filter?color=blue&icon=npm) ![dependents](https://badgen.net/npm/dependents/recursive-key-filter?color=green) ![publish size](https://badgen.net/bundlephobia/minzip/recursive-key-filter?color=blue) 
+[![tests](https://github.com/naveen-bharathi/recursive-key-filter/actions/workflows/tests.yml/badge.svg)](https://github.com/naveen-bharathi/recursive-key-filter/actions/workflows/tests.yml)
+[![License](https://img.shields.io/npm/l/recursive-key-filter?color=%23007ec6)](https://www.npmjs.com/package/recursive-key-filter#LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/recursive-key-filter)](https://github.com/naveen-bharathi/recursive-key-filter/issues)
+![weekly downloads](https://img.shields.io/npm/dw/recursive-key-filter)
+![version](https://img.shields.io/npm/v/recursive-key-filter?color=%23007ec6)
+![publish size](https://img.shields.io/bundlephobia/minzip/recursive-key-filter)
 
 
 # recursive-key-filter
@@ -129,12 +134,12 @@ console.log(booksFiltered);
 
 ## Tests
 
-![tests](https://github.com/naveen-bharathi/recursive-key-filter/workflows/tests/badge.svg?event=push)
+[![tests](https://github.com/naveen-bharathi/recursive-key-filter/actions/workflows/tests.yml/badge.svg)](https://github.com/naveen-bharathi/recursive-key-filter/actions/workflows/tests.yml)
 
 
 ## Open Issues
 
-![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/recursive-key-filter)
+[![GitHub issues](https://img.shields.io/github/issues/naveen-bharathi/recursive-key-filter)](https://github.com/naveen-bharathi/recursive-key-filter/issues)
 
 
 ## LICENSE
